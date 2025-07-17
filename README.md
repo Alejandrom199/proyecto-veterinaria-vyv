@@ -21,10 +21,10 @@ Aplicación para clínicas veterinarias con módulos:
 ---
 
 ## Instalación
-###1. Ejecutar script SQL en `database/VeterinariaScriptSQL.sql`, incluyendo insert en `usuario`.
-###2. Configurar directorio `resources` como Resources Root, para lectura de los .properties.
-###3. Añada las dependencias de `mysql-connector-j`, `JUnit Jupiter (Aggregator)` y `Mockito JUnit Jupiter`.
-###4. En caso de realizar pruebas, configurar directorio `test` como Test Sources Root
+1. Ejecutar script SQL en `database/VeterinariaScriptSQL.sql`, incluyendo insert en `usuario`.
+2. Configurar directorio `resources` como Resources Root, para lectura de los .properties.
+3. Añada las dependencias de `mysql-connector-j`, `JUnit Jupiter (Aggregator)` y `Mockito JUnit Jupiter`.
+4. En caso de realizar pruebas, configurar directorio `test` como Test Sources Root
 
 ## Usuario para iniciar sesión
 nombre de usuario: admin
